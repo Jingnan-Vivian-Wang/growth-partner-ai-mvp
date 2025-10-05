@@ -1,38 +1,98 @@
-# 🚀 Growth Partner AI - MVP Prototype
+# 🌱 Growth Partner AI
 
-Validate your startup idea in minutes.  
-Growth Partner AI is designed to help early-stage founders quickly test assumptions, analyze competitors, and generate MVP roadmaps.
+**Turning startup uncertainty into data-backed validation.**
 
----
-
-## 🌟 Features (Current Prototype)
-- Landing page for idea input
-- Report type selection (Validation, Competitors, MVP Roadmap)
-- Example output cards to simulate insights
-- Email capture (for follow-up and feedback)
+Growth Partner AI helps early founders turn raw ideas into structured, evidence-based validation reports.  
+Each report delivers actionable insights, a 7-day experiment plan, and transparent benchmarks founders can trust.
 
 ---
 
-## 🛠 How to Run
-1. Clone or download this repository.
-2. Open `index.html` in a browser.
-3. Interact with the page to view example reports.
+## 🚀 Live Prototype
+**Try it here:** [https://growth-partner-ai.vercel.app](https://growth-partner-ai.vercel.app)
 
-*(No backend connected yet — this prototype is for demonstration and validation purposes.)*
+Interactive MVP built with **Bubble + OpenAI API**, featuring guided idea intake, report generation, and dashboard visualization.
 
 ---
 
-## 📌 Project Ownership / 项目归属
-**English**  
-This project, including the business idea, product design, and prototype, was initiated and is led by **Jingnan Wang**.  
-Contributions made in this repository are considered part of this project. Contributors retain authorship attribution for their work, while overall project ownership, direction, and intellectual property remain with the initiator.
+## 🧠 What It Does
+Growth Partner AI acts as a **scientific companion for founders**, combining startup logic with AI reasoning.  
+It helps entrepreneurs test assumptions, measure progress, and build investor-ready validation evidence, all within days.
 
-**中文**  
-本项目（包括商业创意、产品设计和原型）由 **王婧楠 (Jingnan Wang)** 发起并主导。  
-在本仓库中的所有贡献均属于本项目的一部分。贡献者拥有署名权，但项目整体的归属、方向与知识产权归项目发起人所有。
+**Five report modules:**
+1. **Validation Report** – key demand signals and next steps  
+2. **Competitor Report** – positioning and whitespace mapping  
+3. **MVP Roadmap** – what to build first  
+4. **Investor Report** – what proof investors want to see  
+5. **Go-to-Market Plan** – turning validation into traction  
 
 ---
 
-## 🤝 Contribution Guidelines
-- Collaborators may add code and features, but must respect the overall project scope and IP ownership.
-- All significant changes should be discussed via issues or pull requests before merging.
+## 🔧 Architecture Overview
+```
+User Input → NLP Parser → Validation Engine → Benchmark Layer → Report Generator
+```
+
+**Core Components**
+- NLP Parser – interprets founder ideas and extracts hypotheses  
+- Validation Engine – maps hypotheses to real startup data and failure cases  
+- Benchmark Layer – adds comparative metrics and trust scores  
+- Report Generator – produces structured, data-backed deliverables  
+
+**Tech Stack**
+- Frontend: Bubble  
+- AI Layer: OpenAI API (prompt-driven analysis)  
+- Data Layer: Curated startup benchmarks  
+- Analytics: Mixpanel (planned integration)
+
+---
+
+## 📊 Research-Driven Design
+Growth Partner AI was shaped through 14 founder interviews and 2 prototype tests.  
+
+**Key Insights**
+- Founders want actionable next steps, not theory.  
+- Data transparency builds trust and willingness to pay.  
+- Outreach friction is a major barrier — ready-made scripts reduce hesitation.  
+- Guided inputs produce clearer, more useful reports.  
+
+These findings directly informed the product UX and report logic.
+
+---
+
+## 🧩 Repository Structure
+| Folder | Description |
+|---------|-------------|
+| `/docs` | Architecture diagrams, product specs, roadmap |
+| `/research` | Founder insights, user studies, hypotheses |
+| `/prototype` | UI screenshots, Bubble workflow notes |
+| `/data` | Tracking schema and sample benchmark files |
+
+---
+
+## 🛠 Next Steps
+- Integrate analytics to measure founder learning outcomes  
+- Launch paid Founder Bundle with outreach pack  
+- Run structured validation trials with 100+ early founders  
+- Quantify impact on learning speed and validation success  
+
+---
+
+## 🧭 Long-Term Vision
+Build the global validation layer for entrepreneurship, a trusted infrastructure that transforms founder intuition into measurable, transparent, and scalable evidence.
+
+---
+
+## 👩‍💻 Author
+**Jingnan (Vivian) Wang**  
+MBET Candidate, University of Waterloo  
+9+ years of experience in marketing and strategy (GroupM, Omnicom, Danone)  
+Experienced in founder research, user insights, and scalable validation design  
+Committed to making evidence-based entrepreneurship accessible to every founder.  
+
+📬 [jingnan.wang@uwaterloo.ca](mailto:jingnan.wang@uwaterloo.ca)  
+🔗 [LinkedIn](https://www.linkedin.com/in/wangjingnan)
+
+---
+
+### 🌟 Tagline
+> Empowering founders to move faster, fail smarter, and build with evidence.
