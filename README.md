@@ -10,7 +10,7 @@ Each report delivers actionable insights, a 7-day experiment plan, and transpare
 ## 🚀 Live Prototype
 **Try it here:** [https://growth-partner-ai.vercel.app](https://growth-partner-ai.vercel.app)
 
-Interactive MVP built with **Bubble + OpenAI API**, featuring guided idea intake, report generation, and dashboard visualization.
+Interactive MVP built with **Figma + Cursor + OpenAI API**, featuring guided idea intake, report generation, and dashboard visualization.
 
 ---
 
