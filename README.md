@@ -39,7 +39,7 @@ User Input → NLP Parser → Validation Engine → Benchmark Layer → Report G
 - Report Generator – produces structured, data-backed deliverables  
 
 **Tech Stack**
-- Frontend: Bubble  
+- Frontend: Figma  
 - AI Layer: OpenAI API (prompt-driven analysis)  
 - Data Layer: Curated startup benchmarks  
 - Analytics: Mixpanel (planned integration)
