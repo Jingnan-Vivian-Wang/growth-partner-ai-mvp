@@ -78,7 +78,7 @@ These findings directly informed the product UX and report logic.
 ---
 
 ## 🧭 Long-Term Vision
-Build the global validation layer for entrepreneurship, a trusted infrastructure that transforms founder intuition into measurable, transparent, and scalable evidence.
+Define Growth Partner AI as the industry standard for evidence-based entrepreneurship, providing a transparent and scalable system that helps founders turn ideas into validated proof faster than ever.
 
 ---
 
